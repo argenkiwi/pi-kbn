@@ -44,3 +44,7 @@ npm run typecheck
 
 - Board state lives in the `kanban` tool results (`details`) and `kanban-state` session entries. It is rebuilt from the current branch, so `/tree`, forks and resumed sessions show the board as it was at that point.
 - The ghost hint comes from a `CustomEditor` subclass. If another extension has already replaced the editor, pi-kbn leaves it alone and shows the hint as a widget below the prompt instead.
+
+## License
+
+[MIT](LICENSE)

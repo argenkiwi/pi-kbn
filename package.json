@@ -6,8 +6,12 @@
   "keywords": [
     "pi-package"
   ],
-  "license": "UNLICENSED",
-  "private": true,
+  "license": "MIT",
+  "author": "Leandro Peralta",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/argenkiwi/pi-kbn.git"
+  },
   "pi": {
     "extensions": [
       "./index.ts"
